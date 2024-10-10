@@ -13,6 +13,8 @@ import com.example.kotlinapplication.databinding.FragmentSecondBinding
  */
 class SecondFragment : Fragment() {
 
+
+
     private var _binding: FragmentSecondBinding? = null
 
     // This property is only valid between onCreateView and
